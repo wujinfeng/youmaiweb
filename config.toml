@@ -1,4 +1,4 @@
-title = "Airspace for Hugo"
+title = "有卖网"
 baseURL = "http://www.th2w.com/"
 nguageCode = "en-us"
 theme = "airspace-hugo"
@@ -7,40 +7,40 @@ theme = "airspace-hugo"
 
   [[menu.header]]
     weight = 2
-    name = "Work"
+    name = "工作"
     url = "/work"
   [[menu.header]]
     weight = 3
-    name = "Blog"
+    name = "博客"
     url = "/blog"
   [[menu.header]]
     weight = 4
-    name = "Service"
+    name = "服务"
     url = "/service"
   [[menu.header]]
     weight = 5
-    name = "Contact"
+    name = "联系"
     url = "/contact"
 
   [[menu.footer]]
     weight = 1
-    name = "About us"
+    name = "关于我们"
     url = "#"
   [[menu.footer]]
     weight = 2
-    name = "Contact us"
+    name = "联系我们"
     url = "#"
   [[menu.footer]]
     weight = 3
-    name = "How it works"
+    name = "运作方式"
     url = "#"
   [[menu.footer]]
     weight = 4
-    name = "Blog"
+    name = "博客"
     url = "#"
   [[menu.footer]]
     weight = 5
-    name = "Terms"
+    name = "协议条款"
     url = "#"
 
 # The site's parameters
@@ -50,53 +50,53 @@ theme = "airspace-hugo"
   # This license is offered with a 50% discount for all Hugo users.
   # For information see https://github.com/gohugoio/hugoThemes/issues/260
 
-  date_format = "6 January 2006"
+  date_format = "6 January 2018"
 
-  home = "Home"
+  home = "首页"
 
   [params.slider]
     enable = true
-    title = "A digital marketing &amp; design agency"
-    subtitle = "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
+    title = "数字营销 &amp; 设计机构 "
+    subtitle = "我们热爱网络和我们所做的工作。<br/>我们与客户紧密合作，为客户提供最佳的解决方案"
 
   [params.wrapper]
     enable = true
-    title = "About Us"
-    italic = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-    paragraph = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id"
+    title = "关于我们"
+    italic = "在遥远的地方，在“山”这个词的后面，在远离“Vokalia”和“Consonantia”的地方，存在着“盲文”。他们住在位于语义学海岸的Bookmarksgrove。"
+    paragraph = "上帝保佑我们，上帝保佑我们，上帝保佑我们。但是，如果你的工作是你的工作，那么你的工作就会变得很好。在我们的国家里，有许多人都是欧洲人。除了不能证明的错误之外，在这个错误的错误中，我们应该承认"
 
   [params.blog]
     enable = true
-    title = "Get The Latest On What We're doing"
-    subtitle = "Catch up with us, anytime and anywhere"
+    title = "了解我们的最新进展"
+    subtitle = "随时随地赶上我们"
 
   [params.feature]
     enable = true
-    title = "We believe in great ideas"
-    content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+    title = "我们相信伟大的思想"
+    content = "在每一个人年轻时，都会有很多诸如让生命变得有意义，让生命充满光辉的信念，但是随着岁月流转，这些信念大多在中年冷漠的人生观里丧失殆尽。但于我而畜，至少还有一样留存了下来，并和从前一样明亮，一样令我感到充实和满足，那就是对英雄毫无顾忌的崇拜。"
     [params.feature.button]
-      caption = "View Works"
+      caption = "查看工作"
       url = "#"
 
   [params.call]
     enable = true
-    title = "We design delightful digital experiences."
-    paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+    title = "我们设计令人愉快的数字体验。"
+    paragraph = "多了解我们的工作和设计理念。你自己来判断我们为其他客户所做的工作和取得的成果，然后去见我们的团队，这个团队经验丰富，热爱设计。"
 
   [params.contact]
     enable = true
-    title = "Drop us a note"
-    subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    title = "给我们留言"
+    subtitle = "不要只相信我们的话。看看我们最新的作品。"
     [params.contact.form]
-      name = "Your name"
-      email = "Your email"
-      subject = "Your subject"
-      message = "Your message"
-      button = "Send message"
+      name = "姓名"
+      email = "邮箱"
+      subject = "主题"
+      message = "信息"
+      button = "发送"
     [params.contact.box]
-      title = "Stop by for a visit"
-      address = "North Main Street, Brooklyn Australia"
+      title = "顺便来看看"
+      address = "北京海淀区"
       email = "Email: contact@mail.com"
       phone = "Phone: +88 01672 506 744"
     [params.contact.gmaps]
-      title = "We Also Count in Google Maps"
+      title = "我们也在谷歌映射中计数"

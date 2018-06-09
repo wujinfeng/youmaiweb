@@ -1,8 +1,8 @@
 enable: true
-title: Our Services
+title: 我们的服务
 subtitle: >
-  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics
-content:
+  在遥远的地方，在“山”这个词的后面，在远离“Vokalia”和“Consonantia”的地方，存在着“盲文”。他们住在位于语义学海岸的Bookmarksgrove。
+内容:
 
   - icon: ion-coffee
     name: Branding
