@@ -56,7 +56,7 @@ theme = "airspace-hugo"
 
   [params.slider]
     enable = true
-    title = "数字营销 &amp; 设计机构 "
+    title = "闲置能换钱 &amp; 让你的闲置转起来 "
     subtitle = "我们热爱网络和我们所做的工作。<br/>我们与客户紧密合作，为客户提供最佳的解决方案"
 
   [params.wrapper]
@@ -99,4 +99,4 @@ theme = "airspace-hugo"
       email = "Email: contact@mail.com"
       phone = "Phone: +88 01672 506 744"
     [params.contact.gmaps]
-      title = "我们也在谷歌映射中计数"
+      title = ""
