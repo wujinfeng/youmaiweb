@@ -1,0 +1,17 @@
+<!-- footer Start -->
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="footer-manu">
+          <ul>
+            {{ range .Site.Menus.footer }}
+            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+        <p>Copyright &copy; All rights reserved.合肥漫步生活科技有限公司版权所有. 皖ICP备16018527号-1</p>
+      </div>
+    </div>
+  </div>
+</footer>
